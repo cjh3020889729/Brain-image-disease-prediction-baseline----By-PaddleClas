@@ -1,3 +1,5 @@
+paddlepaddle==2.0.2
+visualdl
 prettytable
 ujson
 opencv-python==4.4.0.46
