@@ -7,6 +7,7 @@
 ## 项目结构
 ```
 -|data
+  - reminds.txt
 -README.MD
 -2155385.ipynb
 ```
