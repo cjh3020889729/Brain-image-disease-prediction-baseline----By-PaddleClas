@@ -1,3 +1,5 @@
+创建data98269与data90342文件夹
+
 1. 将数据集zip放在data98269中即可
 
 2. 将PaddleClas2.1.0.zip放在data90342中即可
