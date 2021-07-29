@@ -1,15 +1,14 @@
-# AI-Studio-项目标题
+# 讯飞算法赛--脑部图像疾病预测赛(PaddleClas实现--非官方)
 
 ## 项目描述
-简要描述项目
+本项目为脑部图像疾病预测挑战赛的PaddleClas实现版本，旨在快速搭建可调节多模型调优的比赛基线环境。
+基线分数:0.8078! 
 
 ## 项目结构
 ```
 -|data
--|work
 -README.MD
--xxx.ipynb
+-2155385.ipynb
 ```
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-B：此处由项目作者进行撰写使用方式。
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2155385)
